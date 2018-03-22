@@ -33,7 +33,8 @@ paths:
         200:
           description: OK
       tags:
-      - container service
+      - containers
+      - services
 definitions:
   Resource:
     properties:
