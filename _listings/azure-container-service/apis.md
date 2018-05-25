@@ -10,8 +10,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: ""
 tags: Azure Container Service
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/apis.md
 specificationVersion: "0.14"
 apis:
@@ -26,9 +26,9 @@ apis:
   tags: Containers,Services
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidprovidersmicrosoftcontainerservicecontainerservices-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidprovidersmicrosoft-containerservicecontainerservices-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidprovidersmicrosoftcontainerservicecontainerservices-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidprovidersmicrosoft-containerservicecontainerservices-get-openapi.md
 - name: Azure Container Service API Container Services Create Or Update
   x-api-slug: azure-container-service-api
   description: Creates or updates a container service with the specified configuration
@@ -39,7 +39,7 @@ apis:
   tags: Containers,Services
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcontainerservicecontainerservicescontainerservicename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-containerservicecontainerservicescontainerservicename-put-openapi.md
 - name: Azure Container Service API Container Services Get
   x-api-slug: azure-container-service-api
   description: Gets the properties of the specified container service in the specified
@@ -51,9 +51,9 @@ apis:
   tags: Containers,Services
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcontainerservicecontainerservicescontainerservicename-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-containerservicecontainerservicescontainerservicename-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcontainerservicecontainerservicescontainerservicename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-containerservicecontainerservicescontainerservicename-get-openapi.md
 - name: Azure Container Service API Container Services Delete
   x-api-slug: azure-container-service-api
   description: Deletes the specified container service in the specified subscription
@@ -67,9 +67,9 @@ apis:
   tags: Containers,Services
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcontainerservicecontainerservicescontainerservicename-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-containerservicecontainerservicescontainerservicename-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcontainerservicecontainerservicescontainerservicename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-containerservicecontainerservicescontainerservicename-delete-openapi.md
 - name: Azure Container Service API Container Services List By Resource Group
   x-api-slug: azure-container-service-api
   description: Gets a list of container services in the specified subscription and
@@ -81,9 +81,9 @@ apis:
   tags: 'Containers,Services '
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcontainerservicecontainerservices-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-containerservicecontainerservices-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcontainerservicecontainerservices-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-containerservicecontainerservices-get-openapi.md
 - name: Azure Container Service API
   x-api-slug: azure-container-service-api
   description: Azure Container Service optimizes the configuration of popular open-source
