@@ -8,10 +8,10 @@ description: Azure Container Service optimizes the configuration of popular open
   handles everything else.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-container-service.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Azure Container Service
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-container-service/master/_listings/azure-container-service/apis.md
 specificationVersion: "0.14"
 apis:
